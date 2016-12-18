@@ -27,10 +27,9 @@ PROGRAMI
 UPUTSVO (za pocetak)
 
 Ako prvi put imate ovaj paket, prvo pokrenite getPredmete.cpp za unos podataka o semestru i o vasim predmetima, te koliko casova imate tokom sedmice i po predmetu (sedmicno)
-Poslije toga, koristite displayVjezbanje kako bi, pametno i nasumicno, davalo prijedloge sta biste mogli da vjezbate taj dan, u zavisnosti koliki je stres faktor u tom danu.
+Poslije toga, koristite main kako bi vam progam dao prijedloge sta biste mogli da vjezbate taj dan, u zavisnosti koliki je stres faktor u tom danu.
 Stres level u danu je, po defaultu 10 i smanjuje se za broj casova taj dan, te se smanjuje za dva za svaki prijedlog! Ideja je na bazi ECTS kredita!
-Tokom sedmice, mozete primijetiti da cete odredjene predmete dobiti onoliko puta predlozeno koliko imate casova tog predmeta sedmicno, te se program vise fokusira da vam predlozi te predmete,
-nego predmete na kojem imate manje casova!
+Tokom sedmice, mozete primijetiti da cete odredjene predmete dobiti onoliko puta predlozeno koliko imate casova tog predmeta sedmicno, te se program vise fokusira da vam predlozi te predmete, nego predmete na kojem imate manje casova!
 
 U BUDUCNOSTI
 
