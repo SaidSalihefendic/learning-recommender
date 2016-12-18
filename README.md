@@ -20,7 +20,7 @@ PROGRAMI
 
 "getPredmete.cpp" je C++ file koji dobavlja podatke od korisnika, te spasava u gore navedenim fileovima
 
-"displayVjezbanje.cpp" je C++ file koji daje prijedloge za vjezbanje za odredjeni dan na osnovu podatak unesenih u "getPredmete.cpp"
+"main.cpp" je C++ file koji daje prijedloge za vjezbanje za odredjeni dan na osnovu podatak unesenih u "getPredmete.cpp"
 
 
 
